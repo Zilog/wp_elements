@@ -1,0 +1,81 @@
+<html> 
+
+<head> 
+	<title> Awesome Demo </title>
+	
+	<script type="text/javascript" src="../javascript/jquery-1.4.2.min.js" />  
+	<script type="text/javascript" src="../javascript/wpelements.js" />  
+
+	<style>
+		.box{
+			border: 3px solid lightgray;
+			width: 30em;
+			padding: 1em;
+			margin: 1em;
+		}
+		.title {
+			color: blue;
+			font-size: 200%;
+		}
+		.author {
+			font-style: italic;
+		}
+		.text {
+			margin-top: 1em;
+			margin-bottom: 1em;
+			color: #666;
+		}
+	</style>
+
+    <script type="text/javascript">
+	    $(document).ready(function(){
+		
+			// var wpserver = "http://sinatraapp:4567";
+			var wpserver = "http://railsapp:3000";
+			
+			wpElements.getLastPost(wpserver,function(post){
+				$('#latest-post .title').html(post.title);
+				$('#latest-post .author').html(post.author);
+				$('#latest-post .text').html(post.body);
+			});
+
+			wpElements.getPost(wpserver, "1", function(post){
+				$('#post-x .title').html(post.title);
+				$('#post-x .author').html(post.author);
+				$('#post-x .text').html(post.body);
+			});
+			
+		});
+    </script>
+
+</head>
+
+<body>
+
+<h1> My Awesome Site </h1>
+
+Lorem ipsum, baby!
+
+<h2>Latest from my blog.</h2>
+
+	<div class='box' id='latest-post'>
+		<div class='title'></div>
+		<div class='author'></div>
+		<div class='text'></div>
+	</div>
+
+<h2>A Specific Post</h2>
+
+	<div class='box' id='post-x'>
+		<div class='title'></div>
+		<div class='author'></div>
+		<div class='text'></div>
+	</div>
+
+<hr/>
+
+Whatevere else goes here...
+
+</body>
+
+</html>

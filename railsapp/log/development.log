@@ -1,0 +1,1493 @@
+  [4;36;1mSQL (0.7ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#index (for 10.0.0.52 at 2010-10-09 10:39:48) [GET]
+Rendering cp/index
+Completed in 12ms (View: 9, DB: 1) | 200 OK [http://www.wpelements.com/]
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (2.4ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#index (for 10.0.0.52 at 2010-10-09 10:46:33) [GET]
+
+NameError (uninitialized constant CpController::WpBlogPost):
+  app/controllers/cp_controller.rb:4:in `index'
+
+Rendered rescues/_trace (34.2ms)
+Rendered rescues/_request_and_response (2.0ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#index (for 10.0.0.52 at 2010-10-09 10:51:06) [GET]
+Rendering cp/index
+Completed in 3ms (View: 1, DB: 1) | 200 OK [http://www.wpelements.com/]
+  [4;36;1mSQL (0.7ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#index (for 10.0.0.52 at 2010-10-09 10:51:10) [GET]
+Rendering cp/index
+Completed in 3ms (View: 1, DB: 1) | 200 OK [http://www.wpelements.com/]
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#index (for 10.0.0.52 at 2010-10-09 10:52:13) [GET]
+Rendering cp/index
+Completed in 20ms (View: 17, DB: 0) | 200 OK [http://www.wpelements.com/]
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (2.9ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#index (for 10.0.0.52 at 2010-10-09 10:55:36) [GET]
+
+NameError (uninitialized constant CpController::WpBlogPost):
+  app/controllers/cp_controller.rb:4:in `index'
+
+Rendered rescues/_trace (35.0ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.5ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#index (for 10.0.0.52 at 2010-10-09 11:07:31) [GET]
+
+NameError (uninitialized constant CpController::WpPost):
+  app/controllers/cp_controller.rb:4:in `index'
+
+Rendered rescues/_trace (89.1ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.6ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#index (for 10.0.0.52 at 2010-10-09 11:07:35) [GET]
+
+NameError (uninitialized constant CpController::WpPost):
+  app/controllers/cp_controller.rb:4:in `index'
+
+Rendered rescues/_trace (116.3ms)
+Rendered rescues/_request_and_response (0.8ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (1.5ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#index (for 10.0.0.52 at 2010-10-09 11:09:51) [GET]
+
+NameError (uninitialized constant CpController::WpPost):
+  app/controllers/cp_controller.rb:4:in `index'
+
+Rendered rescues/_trace (35.1ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.5ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.5ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#index (for 10.0.0.52 at 2010-10-09 12:29:06) [GET]
+
+NameError (uninitialized constant CpController::WpPost):
+  app/controllers/cp_controller.rb:4:in `index'
+
+Rendered rescues/_trace (84.5ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#index (for 10.0.0.52 at 2010-10-09 12:29:07) [GET]
+
+NameError (uninitialized constant CpController::WpPost):
+  app/controllers/cp_controller.rb:4:in `index'
+
+Rendered rescues/_trace (120.0ms)
+Rendered rescues/_request_and_response (0.9ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#index (for 10.0.0.52 at 2010-10-09 12:31:41) [GET]
+
+NameError (uninitialized constant CpController::WpPost):
+  app/controllers/cp_controller.rb:4:in `index'
+
+Rendered rescues/_trace (108.2ms)
+Rendered rescues/_request_and_response (1.5ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#index (for 10.0.0.52 at 2010-10-09 12:32:37) [GET]
+
+NameError (uninitialized constant CpController::WpPost):
+  app/controllers/cp_controller.rb:4:in `index'
+
+Rendered rescues/_trace (37.3ms)
+Rendered rescues/_request_and_response (1.5ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (1.5ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#index (for 10.0.0.52 at 2010-10-09 12:33:45) [GET]
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (1.2ms)[0m   [0;1mSHOW TABLES[0m
+  [4;35;1mWpPost Columns (3.0ms)[0m   [0mSHOW FIELDS FROM `wp_posts`[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSHOW TABLES[0m
+  [4;35;1mWpPost Load (0.3ms)[0m   [0mSELECT * FROM `wp_posts` [0m
+  [4;36;1mWpPost Load (0.1ms)[0m   [0;1mSELECT * FROM `wp_posts` [0m
+Rendering cp/index
+Completed in 186ms (View: 17, DB: 2) | 200 OK [http://www.wpelements.com/]
+  [4;35;1mSQL (0.4ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#index (for 10.0.0.52 at 2010-10-09 12:36:31) [GET]
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mWpPost Load (0.1ms)[0m   [0mSELECT * FROM `wp_posts` [0m
+Rendering cp/index
+  [4;36;1mWpPost Columns (3.5ms)[0m   [0;1mSHOW FIELDS FROM `wp_posts`[0m
+
+ActionView::TemplateError (undefined method `title' for #<WpPost:0xb6ea0838>) on line #35 of app/views/cp/index.html.erb:
+32: <ul>
+33: <% @blogposts.each do |post| %>
+34: 	<li>
+35: 		<%= post.title %>
+36: 	</li>
+37: <% end %>
+38: </ul>
+
+    app/views/cp/index.html.erb:35
+    app/views/cp/index.html.erb:33:in `each'
+    app/views/cp/index.html.erb:33
+
+Rendered rescues/_trace (43.8ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#index (for 10.0.0.52 at 2010-10-09 12:37:11) [GET]
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mWpPost Load (0.7ms)[0m   [0mSELECT * FROM `wp_posts` [0m
+Rendering cp/index
+  [4;36;1mWpPost Columns (1.1ms)[0m   [0;1mSHOW FIELDS FROM `wp_posts`[0m
+Completed in 112ms (View: 76, DB: 0) | 200 OK [http://www.wpelements.com/]
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (1.3ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#index (for 10.0.0.52 at 2010-10-09 12:38:23) [GET]
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mWpPost Load (0.4ms)[0m   [0mSELECT * FROM `wp_posts` WHERE (post_status = "publish") LIMIT 10[0m
+Rendering cp/index
+  [4;36;1mWpPost Columns (1.3ms)[0m   [0;1mSHOW FIELDS FROM `wp_posts`[0m
+Completed in 19ms (View: 7, DB: 2) | 200 OK [http://www.wpelements.com/]
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#index (for 10.0.0.52 at 2010-10-09 12:46:09) [GET]
+  [4;35;1mSQL (0.4ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mWpPost Load (0.4ms)[0m   [0mSELECT * FROM `wp_posts` WHERE (post_status = "publish") LIMIT 10[0m
+Rendering cp/index
+  [4;36;1mWpPost Columns (1.0ms)[0m   [0;1mSHOW FIELDS FROM `wp_posts`[0m
+Completed in 69ms (View: 29, DB: 0) | 200 OK [http://www.wpelements.com/]
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#lastpost (for 10.0.0.52 at 2010-10-09 12:46:14) [GET]
+
+NameError (uninitialized constant CpControllerController):
+  
+
+Rendered rescues/_trace (28.2ms)
+Rendered rescues/_request_and_response (0.0ms)
+Rendering rescues/layout (internal_server_error)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#lastpost (for 10.0.0.52 at 2010-10-09 12:46:40) [GET]
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mWpPost Load (0.2ms)[0m   [0mSELECT * FROM `wp_posts` [0m
+Rendering cp/lastpost
+Completed in 57ms (View: 44, DB: 0) | 200 OK [http://www.wpelements.com/lastpost]
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#lastpost (for 10.0.0.52 at 2010-10-09 12:46:42) [GET]
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Load (0.5ms)[0m   [0;1mSELECT * FROM `wp_posts` [0m
+Rendering cp/lastpost
+Completed in 33ms (View: 1, DB: 0) | 200 OK [http://www.wpelements.com/lastpost]
+  [4;35;1mSQL (0.3ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 10.0.0.52 at 2010-10-09 12:47:27) [GET]
+
+ActionController::RoutingError (No route matches "/lastpost.xml" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.6ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#lastpost (for 10.0.0.52 at 2010-10-09 12:48:14) [GET]
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mWpPost Load (0.1ms)[0m   [0mSELECT * FROM `wp_posts` [0m
+Rendering cp/lastpost
+  [4;36;1mWpPost Columns (1.6ms)[0m   [0;1mSHOW FIELDS FROM `wp_posts`[0m
+Completed in 23ms (View: 10, DB: 1) | 200 OK [http://www.wpelements.com/lastpost]
+  [4;35;1mSQL (0.0ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#lastpost (for 10.0.0.52 at 2010-10-09 12:58:26) [GET]
+  [4;35;1mSQL (0.4ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mWpPost Load (0.6ms)[0m   [0mSELECT * FROM `wp_posts` WHERE (post_status = "publish") LIMIT 1[0m
+Rendering cp/lastpost
+  [4;36;1mWpPost Columns (2.5ms)[0m   [0;1mSHOW FIELDS FROM `wp_posts`[0m
+Completed in 258ms (View: 234, DB: 0) | 200 OK [http://www.wpelements.com/lastpost]
+  [4;35;1mSQL (0.3ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#lastpost (for 10.0.0.52 at 2010-10-09 13:00:00) [GET]
+  [4;35;1mSQL (0.3ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mWpPost Load (0.8ms)[0m   [0mSELECT * FROM `wp_posts` WHERE (post_status = "publish") ORDER BY wp_posts.ID DESC LIMIT 1[0m
+Rendering cp/lastpost
+  [4;36;1mWpPost Columns (2.9ms)[0m   [0;1mSHOW FIELDS FROM `wp_posts`[0m
+
+ActionView::TemplateError (undefined method `each' for #<WpPost:0xb7297e14>) on line #2 of app/views/cp/lastpost.html.erb:
+1: 
+2: <% @blogposts.each do |post| %>
+3: 
+4: 		<%= post.post_title %><%= post.post_date %><%= post.post_excerpt %><%= post.post_title %><%= post.post_title %>
+5: 
+
+    app/views/cp/lastpost.html.erb:2
+    app/controllers/cp_controller.rb:10:in `lastpost'
+
+Rendered rescues/_trace (164.0ms)
+Rendered rescues/_request_and_response (1.0ms)
+Rendering rescues/layout (internal_server_error)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#lastpost (for 10.0.0.52 at 2010-10-09 13:02:03) [GET]
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mWpPost Load (0.1ms)[0m   [0mSELECT * FROM `wp_posts` WHERE (post_status = "publish") ORDER BY wp_posts.ID DESC LIMIT 1[0m
+Rendering cp/lastpost
+
+ActionView::TemplateError (You have a nil object when you didn't expect it!
+The error occurred while evaluating nil.post_title) on line #4 of app/views/cp/lastpost.html.erb:
+1: 
+2: 
+3: 
+4: <%= @lastpost.post_title %><%= @lastpost.post_date %><%= @lastpost.post_excerpt %><%= @lastpost.post_title %><%= @lastpost.post_title %>
+
+    app/views/cp/lastpost.html.erb:4
+    app/controllers/cp_controller.rb:10:in `lastpost'
+
+Rendered rescues/_trace (90.8ms)
+Rendered rescues/_request_and_response (0.4ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#lastpost (for 10.0.0.52 at 2010-10-09 13:03:36) [GET]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Load (0.1ms)[0m   [0;1mSELECT * FROM `wp_posts` WHERE (post_status = "publish") LIMIT 1[0m
+Rendering cp/lastpost
+
+ActionView::TemplateError (You have a nil object when you didn't expect it!
+You might have expected an instance of Array.
+The error occurred while evaluating nil.each) on line #2 of app/views/cp/lastpost.html.erb:
+1: 
+2: <% @blogposts.each do |post| %>
+3: 
+4: <%= post.post_title %><%= post.post_date %><%=post.post_excerpt %><%= post.post_title %><%= post.post_title %>
+5: 
+
+    app/views/cp/lastpost.html.erb:2
+    app/controllers/cp_controller.rb:10:in `lastpost'
+
+Rendered rescues/_trace (88.8ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+  [4;35;1mSQL (0.3ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#lastpost (for 10.0.0.52 at 2010-10-09 13:03:37) [GET]
+  [4;35;1mSQL (0.3ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mWpPost Load (0.1ms)[0m   [0mSELECT * FROM `wp_posts` WHERE (post_status = "publish") LIMIT 1[0m
+Rendering cp/lastpost
+
+ActionView::TemplateError (You have a nil object when you didn't expect it!
+You might have expected an instance of Array.
+The error occurred while evaluating nil.each) on line #2 of app/views/cp/lastpost.html.erb:
+1: 
+2: <% @blogposts.each do |post| %>
+3: 
+4: <%= post.post_title %><%= post.post_date %><%=post.post_excerpt %><%= post.post_title %><%= post.post_title %>
+5: 
+
+    app/views/cp/lastpost.html.erb:2
+    app/controllers/cp_controller.rb:10:in `lastpost'
+
+Rendered rescues/_trace (44.5ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#lastpost (for 10.0.0.52 at 2010-10-09 13:04:22) [GET]
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Load (0.2ms)[0m   [0;1mSELECT * FROM `wp_posts` WHERE (post_status = "publish") LIMIT 1[0m
+Rendering cp/lastpost
+
+ActionView::TemplateError (You have a nil object when you didn't expect it!
+You might have expected an instance of Array.
+The error occurred while evaluating nil.each) on line #2 of app/views/cp/lastpost.html.erb:
+1: 
+2: <% @blogposts.each do |post| %>
+3: 
+4: <%= post.post_title %><%= post.post_date %><%=post.post_excerpt %><%= post.post_title %><%= post.post_title %>
+5: 
+
+    app/views/cp/lastpost.html.erb:2
+    app/controllers/cp_controller.rb:10:in `lastpost'
+
+Rendered rescues/_trace (46.8ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#lastpost (for 10.0.0.52 at 2010-10-09 13:04:24) [GET]
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mWpPost Load (0.1ms)[0m   [0mSELECT * FROM `wp_posts` WHERE (post_status = "publish") LIMIT 1[0m
+Rendering cp/lastpost
+
+ActionView::TemplateError (You have a nil object when you didn't expect it!
+You might have expected an instance of Array.
+The error occurred while evaluating nil.each) on line #2 of app/views/cp/lastpost.html.erb:
+1: 
+2: <% @blogposts.each do |post| %>
+3: 
+4: <%= post.post_title %><%= post.post_date %><%=post.post_excerpt %><%= post.post_title %><%= post.post_title %>
+5: 
+
+    app/views/cp/lastpost.html.erb:2
+    app/controllers/cp_controller.rb:10:in `lastpost'
+
+Rendered rescues/_trace (90.0ms)
+Rendered rescues/_request_and_response (0.4ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#lastpost (for 10.0.0.52 at 2010-10-09 13:04:57) [GET]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Load (0.1ms)[0m   [0;1mSELECT * FROM `wp_posts` WHERE (post_status = "publish") LIMIT 1[0m
+Rendering cp/lastpost
+  [4;35;1mWpPost Columns (1.1ms)[0m   [0mSHOW FIELDS FROM `wp_posts`[0m
+Completed in 20ms (View: 7, DB: 0) | 200 OK [http://www.wpelements.com/lastpost]
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 10.0.0.52 at 2010-10-09 13:05:28) [GET]
+
+ActionController::RoutingError (No route matches "/lastpost.xml" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#lastpost (for 10.0.0.52 at 2010-10-09 13:08:58) [GET]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Load (0.2ms)[0m   [0;1mSELECT * FROM `wp_posts` WHERE (post_status = "publish") LIMIT 1[0m
+Rendering cp/lastpost
+  [4;35;1mWpPost Columns (1.9ms)[0m   [0mSHOW FIELDS FROM `wp_posts`[0m
+Completed in 154ms (View: 136, DB: 1) | 200 OK [http://www.wpelements.com/lastpost]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#lastpost (for 10.0.0.52 at 2010-10-09 13:10:03) [GET]
+
+SyntaxError (/var/www/railsapp/app/controllers/cp_controller.rb:16: syntax error, unexpected kEND, expecting $end):
+  
+
+Rendered rescues/_trace (78.0ms)
+Rendered rescues/_request_and_response (1.7ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.5ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#lastpost (for 10.0.0.52 at 2010-10-09 13:10:20) [GET]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Load (0.3ms)[0m   [0;1mSELECT * FROM `wp_posts` WHERE (post_status = "publish") ORDER BY wp_posts.ID DESC LIMIT 1[0m
+Rendering cp/lastpost
+  [4;35;1mWpPost Columns (1.0ms)[0m   [0mSHOW FIELDS FROM `wp_posts`[0m
+Completed in 20ms (View: 8, DB: 1) | 200 OK [http://www.wpelements.com/lastpost]
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (5.4ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#lastpost (for 10.0.0.52 at 2010-10-09 13:14:10) [GET]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Load (0.3ms)[0m   [0;1mSELECT post_title FROM `wp_posts` WHERE (post_status = "publish") ORDER BY wp_posts.ID DESC LIMIT 1[0m
+Rendering cp/lastpost
+  [4;35;1mWpPost Columns (1.1ms)[0m   [0mSHOW FIELDS FROM `wp_posts`[0m
+Completed in 20ms (View: 8, DB: 6) | 200 OK [http://www.wpelements.com/lastpost]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#lastpost (for 10.0.0.52 at 2010-10-09 13:14:44) [GET]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Load (0.2ms)[0m   [0;1mSELECT post_title,post_date FROM `wp_posts` WHERE (post_status = "publish") ORDER BY wp_posts.ID DESC LIMIT 1[0m
+Rendering cp/lastpost
+  [4;35;1mWpPost Columns (1.0ms)[0m   [0mSHOW FIELDS FROM `wp_posts`[0m
+Completed in 33ms (View: 6, DB: 0) | 200 OK [http://www.wpelements.com/lastpost]
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#lastpost (for 10.0.0.52 at 2010-10-09 13:16:48) [GET]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Load (0.0ms)[0m   [0;1mMysql::Error: Unknown column 'post_pinged' in 'field list': SELECT post_title,post_date,post_excerpt,post_content,post_pinged,post_guid,post_author,"mock","mock" FROM `wp_posts` WHERE (post_status = "publish") ORDER BY wp_posts.ID DESC LIMIT 1[0m
+
+ActiveRecord::StatementInvalid (Mysql::Error: Unknown column 'post_pinged' in 'field list': SELECT post_title,post_date,post_excerpt,post_content,post_pinged,post_guid,post_author,"mock","mock" FROM `wp_posts` WHERE (post_status = "publish")  ORDER BY wp_posts.ID DESC LIMIT 1):
+  app/controllers/cp_controller.rb:8:in `lastpost'
+
+Rendered rescues/_trace (106.5ms)
+Rendered rescues/_request_and_response (0.4ms)
+Rendering rescues/layout (internal_server_error)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#lastpost (for 10.0.0.52 at 2010-10-09 13:17:47) [GET]
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mWpPost Load (0.0ms)[0m   [0mMysql::Error: Unknown column 'post_pinged' in 'field list': SELECT post_title,post_date,post_excerpt,post_content,post_pinged,post_guid,post_author,"mock" as post_tags,"mock" as post_categories FROM `wp_posts` WHERE (post_status = "publish") ORDER BY wp_posts.ID DESC LIMIT 1[0m
+
+ActiveRecord::StatementInvalid (Mysql::Error: Unknown column 'post_pinged' in 'field list': SELECT post_title,post_date,post_excerpt,post_content,post_pinged,post_guid,post_author,"mock" as post_tags,"mock" as post_categories FROM `wp_posts` WHERE (post_status = "publish")  ORDER BY wp_posts.ID DESC LIMIT 1):
+  app/controllers/cp_controller.rb:8:in `lastpost'
+
+Rendered rescues/_trace (39.0ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.5ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (2.9ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#lastpost (for 10.0.0.52 at 2010-10-09 13:19:24) [GET]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Load (0.3ms)[0m   [0;1mSELECT post_title,post_date,post_excerpt,post_content,pinged,guid,post_author,"mock" as post_tags,"mock" as post_categories FROM `wp_posts` WHERE (post_status = "publish") ORDER BY wp_posts.ID DESC LIMIT 1[0m
+Rendering cp/lastpost
+  [4;35;1mWpPost Columns (0.9ms)[0m   [0mSHOW FIELDS FROM `wp_posts`[0m
+Completed in 18ms (View: 8, DB: 3) | 200 OK [http://www.wpelements.com/lastpost]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#lastpost (for 10.0.0.52 at 2010-10-09 13:23:04) [GET]
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Load (0.1ms)[0m   [0;1mSELECT post_title,post_date,post_excerpt,post_content,pinged,guid,post_author,"mock" as post_tags,"mock" as post_categories FROM `wp_posts` WHERE (post_status = "publish") ORDER BY wp_posts.ID DESC LIMIT 1[0m
+Rendering cp/lastpost
+  [4;35;1mWpPost Columns (3.3ms)[0m   [0mSHOW FIELDS FROM `wp_posts`[0m
+Completed in 86ms (View: 48, DB: 0) | 200 OK [http://www.wpelements.com/lastpost]
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:23:12) [GET]
+  Parameters: {"id"=>"1"}
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Columns (0.9ms)[0m   [0;1mSHOW FIELDS FROM `wp_posts`[0m
+  [4;35;1mWpPost Load (0.1ms)[0m   [0mSELECT * FROM `wp_posts` WHERE (`wp_posts`.`ID` = 1) [0m
+Rendering cp/show
+Completed in 22ms (View: 4, DB: 0) | 200 OK [http://www.wpelements.com/post/1]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#lastpost (for 10.0.0.52 at 2010-10-09 13:23:25) [GET]
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Load (0.1ms)[0m   [0;1mSELECT post_title,post_date,post_excerpt,post_content,pinged,guid,post_author,"mock" as post_tags,"mock" as post_categories FROM `wp_posts` WHERE (post_status = "publish") ORDER BY wp_posts.ID DESC LIMIT 1[0m
+Rendering cp/lastpost
+  [4;35;1mWpPost Columns (0.9ms)[0m   [0mSHOW FIELDS FROM `wp_posts`[0m
+Completed in 18ms (View: 7, DB: 0) | 200 OK [http://www.wpelements.com/lastpost]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (1.9ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:26:10) [GET]
+  Parameters: {"id"=>"2"}
+  [4;36;1mSQL (0.5ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Columns (4.4ms)[0m   [0;1mSHOW FIELDS FROM `wp_posts`[0m
+  [4;35;1mWpPost Load (1.1ms)[0m   [0mSELECT post_title,post_date,post_excerpt,post_content,pinged,guid,post_author,"mock" as post_tags,"mock" as post_categories FROM `wp_posts` WHERE (`wp_posts`.`ID` = 2 AND (post_status = "publish")) [0m
+Rendering cp/show
+Completed in 51ms (View: 16, DB: 2) | 200 OK [http://www.wpelements.com/post/2]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:26:18) [GET]
+  Parameters: {"id"=>"4"}
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Columns (2.7ms)[0m   [0;1mSHOW FIELDS FROM `wp_posts`[0m
+  [4;35;1mWpPost Load (1.0ms)[0m   [0mSELECT post_title,post_date,post_excerpt,post_content,pinged,guid,post_author,"mock" as post_tags,"mock" as post_categories FROM `wp_posts` WHERE (`wp_posts`.`ID` = 4 AND (post_status = "publish")) [0m
+Rendering cp/show
+Completed in 62ms (View: 16, DB: 0) | 200 OK [http://www.wpelements.com/post/4]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:26:32) [GET]
+  Parameters: {"id"=>"1"}
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Columns (0.9ms)[0m   [0;1mSHOW FIELDS FROM `wp_posts`[0m
+  [4;35;1mWpPost Load (0.3ms)[0m   [0mSELECT post_title,post_date,post_excerpt,post_content,pinged,guid,post_author,"mock" as post_tags,"mock" as post_categories FROM `wp_posts` WHERE (`wp_posts`.`ID` = 1 AND (post_status = "publish")) [0m
+Rendering cp/show
+Completed in 20ms (View: 4, DB: 1) | 200 OK [http://www.wpelements.com/post/1]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:26:42) [GET]
+  Parameters: {"id"=>"10"}
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Columns (1.2ms)[0m   [0;1mSHOW FIELDS FROM `wp_posts`[0m
+  [4;35;1mWpPost Load (0.4ms)[0m   [0mSELECT post_title,post_date,post_excerpt,post_content,pinged,guid,post_author,"mock" as post_tags,"mock" as post_categories FROM `wp_posts` WHERE (`wp_posts`.`ID` = 10 AND (post_status = "publish")) [0m
+Rendering cp/show
+Completed in 29ms (View: 9, DB: 0) | 200 OK [http://www.wpelements.com/post/10]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:26:50) [GET]
+  Parameters: {"id"=>"9"}
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Columns (0.8ms)[0m   [0;1mSHOW FIELDS FROM `wp_posts`[0m
+  [4;35;1mWpPost Load (0.0ms)[0m   [0mSELECT post_title,post_date,post_excerpt,post_content,pinged,guid,post_author,"mock" as post_tags,"mock" as post_categories FROM `wp_posts` WHERE (`wp_posts`.`ID` = 9 AND (post_status = "publish")) [0m
+
+ActiveRecord::RecordNotFound (Couldn't find WpPost with ID=9 AND (post_status = "publish")):
+  app/controllers/cp_controller.rb:15:in `show'
+
+Rendered rescues/_trace (38.4ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (3.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:29:18) [GET]
+  Parameters: {"id"=>"9"}
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Columns (0.8ms)[0m   [0;1mSHOW FIELDS FROM `wp_posts`[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSHOW TABLES[0m
+
+NoMethodError (undefined method `find_by_id' for #<Class:0xb5e44e1c>):
+  app/controllers/cp_controller.rb:15:in `show'
+
+Rendered rescues/_trace (32.4ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:31:09) [GET]
+  Parameters: {"id"=>"9"}
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Columns (0.8ms)[0m   [0;1mSHOW FIELDS FROM `wp_posts`[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSHOW TABLES[0m
+
+NoMethodError (undefined method `find_by_id' for #<Class:0xb5d7cb24>):
+  app/controllers/cp_controller.rb:15:in `show'
+
+Rendered rescues/_trace (61.6ms)
+Rendered rescues/_request_and_response (0.4ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:31:11) [GET]
+  Parameters: {"id"=>"9"}
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Columns (3.1ms)[0m   [0;1mSHOW FIELDS FROM `wp_posts`[0m
+  [4;35;1mSQL (2.0ms)[0m   [0mSHOW TABLES[0m
+
+NoMethodError (undefined method `find_by_id' for #<Class:0xb5f42ad0>):
+  app/controllers/cp_controller.rb:15:in `show'
+
+Rendered rescues/_trace (116.6ms)
+Rendered rescues/_request_and_response (0.4ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:31:11) [GET]
+  Parameters: {"id"=>"9"}
+  [4;36;1mSQL (0.5ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Columns (2.6ms)[0m   [0;1mSHOW FIELDS FROM `wp_posts`[0m
+  [4;35;1mSQL (1.9ms)[0m   [0mSHOW TABLES[0m
+
+NoMethodError (undefined method `find_by_id' for #<Class:0xb5e6c700>):
+  app/controllers/cp_controller.rb:15:in `show'
+
+Rendered rescues/_trace (32.9ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:31:12) [GET]
+  Parameters: {"id"=>"9"}
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Columns (2.6ms)[0m   [0;1mSHOW FIELDS FROM `wp_posts`[0m
+  [4;35;1mSQL (1.3ms)[0m   [0mSHOW TABLES[0m
+
+NoMethodError (undefined method `find_by_id' for #<Class:0xb5da88c8>):
+  app/controllers/cp_controller.rb:15:in `show'
+
+Rendered rescues/_trace (268.9ms)
+Rendered rescues/_request_and_response (1.8ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:32:20) [GET]
+  Parameters: {"id"=>"9"}
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Columns (0.8ms)[0m   [0;1mSHOW FIELDS FROM `wp_posts`[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSHOW TABLES[0m
+
+NoMethodError (undefined method `find_by_id' for #<Class:0xb5f4e614>):
+  app/controllers/cp_controller.rb:16:in `show'
+
+Rendered rescues/_trace (32.9ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:32:24) [GET]
+  Parameters: {"id"=>"10"}
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Columns (2.4ms)[0m   [0;1mSHOW FIELDS FROM `wp_posts`[0m
+  [4;35;1mSQL (1.6ms)[0m   [0mSHOW TABLES[0m
+
+NoMethodError (undefined method `find_by_id' for #<Class:0xb5e7795c>):
+  app/controllers/cp_controller.rb:16:in `show'
+
+Rendered rescues/_trace (110.9ms)
+Rendered rescues/_request_and_response (1.1ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#index (for 10.0.0.52 at 2010-10-09 13:36:43) [GET]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Load (0.5ms)[0m   [0;1mSELECT * FROM `wp_posts` WHERE (post_status = "publish") ORDER BY post_date DESC LIMIT 10[0m
+Rendering cp/index
+  [4;35;1mWpPost Columns (1.9ms)[0m   [0mSHOW FIELDS FROM `wp_posts`[0m
+Completed in 172ms (View: 159, DB: 0) | 200 OK [http://www.wpelements.com/]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#lastpost (for 10.0.0.52 at 2010-10-09 13:36:55) [GET]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Load (0.1ms)[0m   [0;1mSELECT post_title,post_date,post_excerpt,post_content,pinged,guid,post_author,"mock" as post_tags,"mock" as post_categories FROM `wp_posts` WHERE (post_status = "publish") ORDER BY wp_posts.ID DESC LIMIT 1[0m
+Rendering cp/lastpost
+  [4;35;1mWpPost Columns (1.0ms)[0m   [0mSHOW FIELDS FROM `wp_posts`[0m
+Completed in 33ms (View: 19, DB: 1) | 200 OK [http://www.wpelements.com/lastpost]
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#lastpost (for 10.0.0.52 at 2010-10-09 13:37:47) [GET]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Load (0.4ms)[0m   [0;1mSELECT post_title,post_date,post_excerpt,post_content,pinged,guid,post_author,"mock" as post_tags,"mock" as post_categories FROM `wp_posts` WHERE (post_status = "publish") ORDER BY post_date ASC LIMIT 1[0m
+Rendering cp/lastpost
+  [4;35;1mWpPost Columns (0.9ms)[0m   [0mSHOW FIELDS FROM `wp_posts`[0m
+Completed in 19ms (View: 8, DB: 1) | 200 OK [http://www.wpelements.com/lastpost]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#lastpost (for 10.0.0.52 at 2010-10-09 13:37:49) [GET]
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Load (0.1ms)[0m   [0;1mSELECT post_title,post_date,post_excerpt,post_content,pinged,guid,post_author,"mock" as post_tags,"mock" as post_categories FROM `wp_posts` WHERE (post_status = "publish") ORDER BY post_date ASC LIMIT 1[0m
+Rendering cp/lastpost
+  [4;35;1mWpPost Columns (1.1ms)[0m   [0mSHOW FIELDS FROM `wp_posts`[0m
+Completed in 18ms (View: 7, DB: 0) | 200 OK [http://www.wpelements.com/lastpost]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#lastpost (for 10.0.0.52 at 2010-10-09 13:37:49) [GET]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Load (0.1ms)[0m   [0;1mSELECT post_title,post_date,post_excerpt,post_content,pinged,guid,post_author,"mock" as post_tags,"mock" as post_categories FROM `wp_posts` WHERE (post_status = "publish") ORDER BY post_date ASC LIMIT 1[0m
+Rendering cp/lastpost
+  [4;35;1mWpPost Columns (3.2ms)[0m   [0mSHOW FIELDS FROM `wp_posts`[0m
+Completed in 53ms (View: 24, DB: 0) | 200 OK [http://www.wpelements.com/lastpost]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#lastpost (for 10.0.0.52 at 2010-10-09 13:37:50) [GET]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Load (0.1ms)[0m   [0;1mSELECT post_title,post_date,post_excerpt,post_content,pinged,guid,post_author,"mock" as post_tags,"mock" as post_categories FROM `wp_posts` WHERE (post_status = "publish") ORDER BY post_date ASC LIMIT 1[0m
+Rendering cp/lastpost
+  [4;35;1mWpPost Columns (5.1ms)[0m   [0mSHOW FIELDS FROM `wp_posts`[0m
+Completed in 41ms (View: 26, DB: 0) | 200 OK [http://www.wpelements.com/lastpost]
+  [4;36;1mSQL (0.6ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.6ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#lastpost (for 10.0.0.52 at 2010-10-09 13:37:52) [GET]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Load (0.1ms)[0m   [0;1mSELECT post_title,post_date,post_excerpt,post_content,pinged,guid,post_author,"mock" as post_tags,"mock" as post_categories FROM `wp_posts` WHERE (post_status = "publish") ORDER BY post_date ASC LIMIT 1[0m
+Rendering cp/lastpost
+  [4;35;1mWpPost Columns (0.9ms)[0m   [0mSHOW FIELDS FROM `wp_posts`[0m
+Completed in 19ms (View: 7, DB: 1) | 200 OK [http://www.wpelements.com/lastpost]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#lastpost (for 10.0.0.52 at 2010-10-09 13:38:20) [GET]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Load (0.3ms)[0m   [0;1mSELECT post_title,post_date,post_excerpt,post_content,pinged,guid,post_author,"mock" as post_tags,"mock" as post_categories FROM `wp_posts` WHERE (post_status = "publish") ORDER BY post_date DESC LIMIT 1[0m
+Rendering cp/lastpost
+  [4;35;1mWpPost Columns (1.2ms)[0m   [0mSHOW FIELDS FROM `wp_posts`[0m
+Completed in 18ms (View: 7, DB: 0) | 200 OK [http://www.wpelements.com/lastpost]
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:39:44) [GET]
+  Parameters: {"id"=>"1"}
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Columns (0.8ms)[0m   [0;1mSHOW FIELDS FROM `wp_posts`[0m
+  [4;35;1mWpPost Load (0.3ms)[0m   [0mSELECT * FROM `wp_posts` WHERE (`wp_posts`.`post_author` IS NULL) LIMIT 1[0m
+Rendering cp/show
+Completed in 32ms (View: 1, DB: 0) | 200 OK [http://www.wpelements.com/post/1]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:39:54) [GET]
+  Parameters: {"id"=>"2"}
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Columns (0.9ms)[0m   [0;1mSHOW FIELDS FROM `wp_posts`[0m
+  [4;35;1mWpPost Load (0.1ms)[0m   [0mSELECT * FROM `wp_posts` WHERE (`wp_posts`.`post_author` IS NULL) LIMIT 1[0m
+Rendering cp/show
+Completed in 16ms (View: 1, DB: 0) | 200 OK [http://www.wpelements.com/post/2]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#index (for 10.0.0.52 at 2010-10-09 13:41:15) [GET]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Load (0.1ms)[0m   [0;1mSELECT * FROM `wp_posts` WHERE (post_status = "publish") ORDER BY post_date DESC LIMIT 10[0m
+Rendering cp/index
+  [4;35;1mWpPost Columns (1.0ms)[0m   [0mSHOW FIELDS FROM `wp_posts`[0m
+Completed in 19ms (View: 7, DB: 0) | 200 OK [http://www.wpelements.com/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#index (for 10.0.0.52 at 2010-10-09 13:42:24) [GET]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Load (0.1ms)[0m   [0;1mSELECT * FROM `wp_posts` WHERE (post_status = "publish") ORDER BY post_date DESC LIMIT 10[0m
+Rendering cp/index
+  [4;35;1mWpPost Columns (1.2ms)[0m   [0mSHOW FIELDS FROM `wp_posts`[0m
+
+ActionView::TemplateError (undefined method `post_guid' for #<WpPost:0xb5fd306c>) on line #25 of app/views/cp/index.html.erb:
+22: <ul>
+23: <% @blogposts.each do |post| %>
+24: 	<li>
+25: 		<%= post.post_title %> <%= post.post_guid %> 
+26: 	</li>
+27: <% end %>
+28: </ul>
+
+    app/views/cp/index.html.erb:25
+    app/views/cp/index.html.erb:23:in `each'
+    app/views/cp/index.html.erb:23
+
+Rendered rescues/_trace (43.1ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#index (for 10.0.0.52 at 2010-10-09 13:42:45) [GET]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Load (0.1ms)[0m   [0;1mSELECT * FROM `wp_posts` WHERE (post_status = "publish") ORDER BY post_date DESC LIMIT 10[0m
+Rendering cp/index
+  [4;35;1mWpPost Columns (0.9ms)[0m   [0mSHOW FIELDS FROM `wp_posts`[0m
+Completed in 24ms (View: 10, DB: 0) | 200 OK [http://www.wpelements.com/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 10.0.0.52 at 2010-10-09 13:43:39) [GET]
+
+SyntaxError (/var/www/railsapp/app/controllers/cp_controller.rb:5: syntax error, unexpected kAND, expecting ']'
+					:conditions => ['post_status = "publish"' and 'post_type = "post"'], 
+					                                             ^
+/var/www/railsapp/app/controllers/cp_controller.rb:5: syntax error, unexpected ']', expecting kEND
+					:conditions => ['post_status = "publish"' and 'post_type = "post"'], 
+					                                                                   ^
+/var/www/railsapp/app/controllers/cp_controller.rb:7: syntax error, unexpected ')', expecting kEND
+/var/www/railsapp/app/controllers/cp_controller.rb:26: syntax error, unexpected $end, expecting kEND):
+  
+
+Rendered rescues/_trace (60.2ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#lastpost (for 10.0.0.52 at 2010-10-09 13:55:27) [GET]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Load (0.1ms)[0m   [0;1mSELECT post_title,post_date,post_excerpt,post_content,pinged,guid,post_author,"mock" as post_tags,"mock" as post_categories FROM `wp_posts` WHERE (post_status = "publish") ORDER BY post_date DESC LIMIT 1[0m
+Rendering cp/lastpost
+  [4;35;1mWpPost Columns (1.7ms)[0m   [0mSHOW FIELDS FROM `wp_posts`[0m
+Completed in 156ms (View: 138, DB: 0) | 200 OK [http://www.wpelements.com/lastpost]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:55:37) [GET]
+  Parameters: {"id"=>"1"}
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Columns (1.0ms)[0m   [0;1mSHOW FIELDS FROM `wp_posts`[0m
+  [4;35;1mWpPost Load (0.2ms)[0m   [0mSELECT post_title,post_date,post_excerpt,post_content,pinged,guid,post_author,"mock" as post_tags,"mock" as post_categories FROM `wp_posts` WHERE (`wp_posts`.`ID` = 1 AND (post_status = "publish")) [0m
+Rendering cp/show
+Completed in 28ms (View: 9, DB: 0) | 200 OK [http://www.wpelements.com/post/1]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:55:42) [GET]
+  Parameters: {"id"=>"10"}
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Columns (0.9ms)[0m   [0;1mSHOW FIELDS FROM `wp_posts`[0m
+  [4;35;1mWpPost Load (0.0ms)[0m   [0mSELECT post_title,post_date,post_excerpt,post_content,pinged,guid,post_author,"mock" as post_tags,"mock" as post_categories FROM `wp_posts` WHERE (`wp_posts`.`ID` = 10 AND (post_status = "publish")) [0m
+Rendering cp/show
+Completed in 18ms (View: 2, DB: 0) | 200 OK [http://www.wpelements.com/post/10]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:55:50) [GET]
+  Parameters: {"id"=>"9"}
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Columns (0.9ms)[0m   [0;1mSHOW FIELDS FROM `wp_posts`[0m
+  [4;35;1mWpPost Load (0.0ms)[0m   [0mSELECT post_title,post_date,post_excerpt,post_content,pinged,guid,post_author,"mock" as post_tags,"mock" as post_categories FROM `wp_posts` WHERE (`wp_posts`.`ID` = 9 AND (post_status = "publish")) [0m
+
+ActiveRecord::RecordNotFound (Couldn't find WpPost with ID=9 AND (post_status = "publish")):
+  app/controllers/cp_controller.rb:21:in `show'
+
+Rendered rescues/_trace (36.2ms)
+Rendered rescues/_request_and_response (1.9ms)
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:56:11) [GET]
+  Parameters: {"id"=>"9"}
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Columns (1.5ms)[0m   [0;1mSHOW FIELDS FROM `wp_posts`[0m
+  [4;35;1mSQL (0.7ms)[0m   [0mSHOW TABLES[0m
+
+NoMethodError (undefined method `find_by_id' for #<Class:0xb5e7a47c>):
+  app/controllers/cp_controller.rb:21:in `show'
+
+Rendered rescues/_trace (158.0ms)
+Rendered rescues/_request_and_response (1.6ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:56:29) [GET]
+  Parameters: {"id"=>"9"}
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Columns (0.9ms)[0m   [0;1mSHOW FIELDS FROM `wp_posts`[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSHOW TABLES[0m
+
+NoMethodError (undefined method `find_by_post_id' for #<Class:0xb6034ad8>):
+  app/controllers/cp_controller.rb:21:in `show'
+
+Rendered rescues/_trace (37.4ms)
+Rendered rescues/_request_and_response (0.4ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:56:47) [GET]
+  Parameters: {"id"=>"9"}
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Columns (0.9ms)[0m   [0;1mSHOW FIELDS FROM `wp_posts`[0m
+  [4;35;1mWpPost Load (0.2ms)[0m   [0mSELECT post_title,post_date,post_excerpt,post_content,pinged,guid,post_author,"mock" as post_tags,"mock" as post_categories FROM `wp_posts` WHERE (post_status = "publish") AND (`wp_posts`.`ID` = '9') LIMIT 1[0m
+Rendering cp/show
+Completed in 14ms (View: 1, DB: 1) | 200 OK [http://www.wpelements.com/post/9]
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.5ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:57:38) [GET]
+  Parameters: {"id"=>"9"}
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Columns (2.8ms)[0m   [0;1mSHOW FIELDS FROM `wp_posts`[0m
+  [4;35;1mWpPost Load (0.8ms)[0m   [0mSELECT post_title,post_date,post_excerpt,post_content,pinged,guid,post_author,"mock" as post_tags,"mock" as post_categories FROM `wp_posts` WHERE (post_status = "publish" and post_type = "post") AND (`wp_posts`.`ID` = '9') LIMIT 1[0m
+Rendering cp/show
+Completed in 37ms (View: 1, DB: 0) | 200 OK [http://www.wpelements.com/post/9]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:57:41) [GET]
+  Parameters: {"id"=>"10"}
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Columns (1.3ms)[0m   [0;1mSHOW FIELDS FROM `wp_posts`[0m
+  [4;35;1mWpPost Load (0.8ms)[0m   [0mSELECT post_title,post_date,post_excerpt,post_content,pinged,guid,post_author,"mock" as post_tags,"mock" as post_categories FROM `wp_posts` WHERE (post_status = "publish" and post_type = "post") AND (`wp_posts`.`ID` = '10') LIMIT 1[0m
+Rendering cp/show
+Completed in 37ms (View: 18, DB: 0) | 200 OK [http://www.wpelements.com/post/10]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:57:42) [GET]
+  Parameters: {"id"=>"10"}
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Columns (2.6ms)[0m   [0;1mSHOW FIELDS FROM `wp_posts`[0m
+  [4;35;1mWpPost Load (0.4ms)[0m   [0mSELECT post_title,post_date,post_excerpt,post_content,pinged,guid,post_author,"mock" as post_tags,"mock" as post_categories FROM `wp_posts` WHERE (post_status = "publish" and post_type = "post") AND (`wp_posts`.`ID` = '10') LIMIT 1[0m
+Rendering cp/show
+Completed in 59ms (View: 16, DB: 0) | 200 OK [http://www.wpelements.com/post/10]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (1.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#index (for 10.0.0.52 at 2010-10-09 13:57:50) [GET]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Load (0.1ms)[0m   [0;1mSELECT * FROM `wp_posts` WHERE (post_status = "publish") ORDER BY post_date DESC LIMIT 10[0m
+Rendering cp/index
+  [4;35;1mWpPost Columns (2.4ms)[0m   [0mSHOW FIELDS FROM `wp_posts`[0m
+Completed in 24ms (View: 11, DB: 1) | 200 OK [http://www.wpelements.com/]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#index (for 10.0.0.52 at 2010-10-09 13:58:21) [GET]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Load (0.4ms)[0m   [0;1mSELECT * FROM `wp_posts` WHERE (post_status = "publish" and post_type = "post") ORDER BY post_date DESC LIMIT 10[0m
+Rendering cp/index
+  [4;35;1mWpPost Columns (0.8ms)[0m   [0mSHOW FIELDS FROM `wp_posts`[0m
+Completed in 18ms (View: 2, DB: 0) | 200 OK [http://www.wpelements.com/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#lastpost (for 10.0.0.52 at 2010-10-09 13:58:29) [GET]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Load (0.4ms)[0m   [0;1mSELECT post_title,post_date,post_excerpt,post_content,pinged,guid,post_author,"mock" as post_tags,"mock" as post_categories FROM `wp_posts` WHERE (post_status = "publish" and post_type = "post") ORDER BY post_date DESC LIMIT 1[0m
+Rendering cp/lastpost
+  [4;35;1mWpPost Columns (0.7ms)[0m   [0mSHOW FIELDS FROM `wp_posts`[0m
+Completed in 21ms (View: 8, DB: 0) | 200 OK [http://www.wpelements.com/lastpost]
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#lastpost (for 10.0.0.52 at 2010-10-09 14:00:17) [GET]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Load (0.3ms)[0m   [0;1mSELECT post_title,post_date,post_excerpt,post_content,pinged,guid,post_author,"tags,di,mock" as post_tags,"categorie,di,mock" as post_categories FROM `wp_posts` WHERE (post_status = "publish" and post_type = "post") ORDER BY post_date DESC LIMIT 1[0m
+Rendering cp/lastpost
+  [4;35;1mWpPost Columns (0.9ms)[0m   [0mSHOW FIELDS FROM `wp_posts`[0m
+Completed in 18ms (View: 6, DB: 0) | 200 OK [http://www.wpelements.com/lastpost]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.6ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#index (for 10.0.0.52 at 2010-10-09 14:09:36) [GET]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Load (0.1ms)[0m   [0;1mSELECT * FROM `wp_posts` WHERE (post_status = "publish" and post_type = "post") ORDER BY post_date DESC LIMIT 10[0m
+Rendering cp/index
+  [4;35;1mWpPost Columns (2.1ms)[0m   [0mSHOW FIELDS FROM `wp_posts`[0m
+Completed in 22ms (View: 10, DB: 1) | 200 OK [http://www.wpelements.com/]
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#lastpost (for 10.0.0.52 at 2010-10-09 14:10:51) [GET]
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1mSHOW TABLES[0m
+  [4;35;1mWpPost Columns (3.4ms)[0m   [0mSHOW FIELDS FROM `wp_posts`[0m
+
+NoMethodError (undefined method `find_first' for #<Class:0xb5fb222c>):
+  app/controllers/cp_controller.rb:11:in `lastpost'
+
+Rendered rescues/_trace (33.9ms)
+Rendered rescues/_request_and_response (1.4ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#lastpost (for 10.0.0.52 at 2010-10-09 14:11:30) [GET]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Load (0.1ms)[0m   [0;1mSELECT post_title,post_date,post_excerpt,post_content,pinged,guid,post_author,"tags,di,mock" as post_tags,"categorie,di,mock" as post_categories FROM `wp_posts` WHERE (post_status = "publish" and post_type = "post") ORDER BY post_date DESC LIMIT 1[0m
+  [4;35;1mWpPost Columns (1.4ms)[0m   [0mSHOW FIELDS FROM `wp_posts`[0m
+
+NoMethodError (undefined method `first' for #<WpPost:0xb5edd158>):
+  app/controllers/cp_controller.rb:11:in `lastpost'
+
+Rendered rescues/_trace (34.7ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#lastpost (for 10.0.0.52 at 2010-10-09 14:12:05) [GET]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Load (0.2ms)[0m   [0;1mSELECT post_title,post_date,post_excerpt,post_content,pinged,guid,post_author,"tags,di,mock" as post_tags,"categorie,di,mock" as post_categories FROM `wp_posts` WHERE (post_status = "publish" and post_type = "post") ORDER BY post_date DESC LIMIT 1[0m
+Rendering cp/lastpost
+Completed in 36ms (View: 12, DB: 0) | 200 OK [http://www.wpelements.com/lastpost]
+  [4;35;1mSQL (0.4ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#lastpost (for 10.0.0.52 at 2010-10-09 14:12:42) [GET]
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mWpPost Load (0.1ms)[0m   [0mSELECT post_title,post_date,post_excerpt,post_content,pinged,guid,post_author,"tags,di,mock" as post_tags,"categorie,di,mock" as post_categories FROM `wp_posts` WHERE (post_status = "publish" and post_type = "post") ORDER BY post_date DESC LIMIT 1[0m
+  [4;36;1mWpPost Columns (1.2ms)[0m   [0;1mSHOW FIELDS FROM `wp_posts`[0m
+Rendering cp/lastpost
+Completed in 95ms (View: 5, DB: 1) | 200 OK [http://www.wpelements.com/lastpost]
+  [4;35;1mSQL (0.4ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (2.4ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#lastpost (for 10.0.0.52 at 2010-10-09 14:19:57) [GET]
+  [4;35;1mSQL (0.3ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mWpPost Load (0.3ms)[0m   [0mSELECT post_title,post_date,post_excerpt,post_content,pinged,guid,post_author,"tags,di,mock" as post_tags,"categorie,di,mock" as post_categories FROM `wp_posts` WHERE (post_status = "publish" and post_type = "post") ORDER BY post_date DESC LIMIT 1[0m
+  [4;36;1mWpPost Columns (3.7ms)[0m   [0;1mSHOW FIELDS FROM `wp_posts`[0m
+Rendering cp/lastpost
+Completed in 61ms (View: 7, DB: 3) | 200 OK [http://www.wpelements.com/lastpost]
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 14:20:26) [GET]
+  Parameters: {"id"=>"1"}
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mWpPost Columns (1.1ms)[0m   [0mSHOW FIELDS FROM `wp_posts`[0m
+  [4;36;1mWpPost Load (0.4ms)[0m   [0;1mSELECT post_title,post_date,post_excerpt,post_content,pinged,guid,post_author,"mock" as post_tags,"mock" as post_categories FROM `wp_posts` WHERE (post_status = "publish" and post_type = "post") AND (`wp_posts`.`ID` = '1') LIMIT 1[0m
+Rendering cp/show
+Completed in 21ms (View: 5, DB: 0) | 200 OK [http://www.wpelements.com/post/1]
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 14:20:47) [GET]
+  Parameters: {"id"=>"1"}
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mWpPost Columns (0.9ms)[0m   [0mSHOW FIELDS FROM `wp_posts`[0m
+  [4;36;1mWpPost Load (0.1ms)[0m   [0;1mSELECT post_title,post_date,post_excerpt,post_content,pinged,guid,post_author,"mock" as post_tags,"mock" as post_categories FROM `wp_posts` WHERE (post_status = "publish" and post_type = "post") AND (`wp_posts`.`ID` = '1') LIMIT 1[0m
+Rendering cp/show
+Completed in 23ms (View: 1, DB: 0) | 200 OK [http://www.wpelements.com/post/1]
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 14:20:58) [GET]
+  Parameters: {"id"=>"8"}
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mWpPost Columns (0.9ms)[0m   [0mSHOW FIELDS FROM `wp_posts`[0m
+  [4;36;1mWpPost Load (0.3ms)[0m   [0;1mSELECT post_title,post_date,post_excerpt,post_content,pinged,guid,post_author,"mock" as post_tags,"mock" as post_categories FROM `wp_posts` WHERE (post_status = "publish" and post_type = "post") AND (`wp_posts`.`ID` = '8') LIMIT 1[0m
+Rendering cp/show
+Completed in 20ms (View: 1, DB: 0) | 200 OK [http://www.wpelements.com/post/8]
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 14:21:06) [GET]
+  Parameters: {"id"=>"33"}
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mWpPost Columns (0.9ms)[0m   [0mSHOW FIELDS FROM `wp_posts`[0m
+  [4;36;1mWpPost Load (0.0ms)[0m   [0;1mSELECT post_title,post_date,post_excerpt,post_content,pinged,guid,post_author,"mock" as post_tags,"mock" as post_categories FROM `wp_posts` WHERE (post_status = "publish" and post_type = "post") AND (`wp_posts`.`ID` = '33') LIMIT 1[0m
+
+NoMethodError (You have a nil object when you didn't expect it!
+The error occurred while evaluating nil.to_hash):
+  app/controllers/cp_controller.rb:21:in `show'
+
+Rendered rescues/_trace (35.8ms)
+Rendered rescues/_request_and_response (0.4ms)
+Rendering rescues/layout (internal_server_error)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#index (for 10.0.0.19 at 2010-10-09 14:24:08) [GET]
+  [4;35;1mSQL (0.3ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mWpPost Load (0.1ms)[0m   [0mSELECT * FROM `wp_posts` WHERE (post_status = "publish" and post_type = "post") ORDER BY post_date DESC LIMIT 10[0m
+Rendering cp/index
+  [4;36;1mWpPost Columns (0.8ms)[0m   [0;1mSHOW FIELDS FROM `wp_posts`[0m
+Completed in 15ms (View: 3, DB: 0) | 200 OK [http://10.0.0.53/]
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 14:26:24) [GET]
+  Parameters: {"id"=>"1"}
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mWpPost Columns (0.9ms)[0m   [0mSHOW FIELDS FROM `wp_posts`[0m
+  [4;36;1mWpPost Load (0.1ms)[0m   [0;1mSELECT post_title,post_date,post_excerpt,post_content,pinged,guid,post_author,"mock" as post_tags,"mock" as post_categories FROM `wp_posts` WHERE (post_status = "publish" and post_type = "post") AND (`wp_posts`.`ID` = '1') LIMIT 1[0m
+Rendering cp/show
+Completed in 20ms (View: 0, DB: 0) | 200 OK [http://www.wpelements.com/post/1]
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#lastpost (for 10.0.0.19 at 2010-10-09 14:26:26) [GET]
+  Parameters: {"callback"=>"?"}
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mWpPost Load (2.5ms)[0m   [0mSELECT post_title,post_date,post_excerpt,post_content,pinged,guid,post_author,"tags,di,mock" as post_tags,"categorie,di,mock" as post_categories FROM `wp_posts` WHERE (post_status = "publish" and post_type = "post") ORDER BY post_date DESC LIMIT 1[0m
+  [4;36;1mWpPost Columns (2.8ms)[0m   [0;1mSHOW FIELDS FROM `wp_posts`[0m
+Rendering cp/lastpost
+Completed in 193ms (View: 3, DB: 0) | 200 OK [http://10.0.0.53/lastpost?callback=?]
+  [4;35;1mSQL (0.4ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#lastpost (for 10.0.0.19 at 2010-10-09 14:26:56) [GET]
+  Parameters: {"callback"=>"?"}
+  [4;35;1mSQL (0.3ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mWpPost Load (0.4ms)[0m   [0mSELECT post_title,post_date,post_excerpt,post_content,pinged,guid,post_author,"tags,di,mock" as post_tags,"categorie,di,mock" as post_categories FROM `wp_posts` WHERE (post_status = "publish" and post_type = "post") ORDER BY post_date DESC LIMIT 1[0m
+  [4;36;1mWpPost Columns (2.2ms)[0m   [0;1mSHOW FIELDS FROM `wp_posts`[0m
+Rendering cp/lastpost
+Completed in 62ms (View: 3, DB: 1) | 200 OK [http://10.0.0.53/lastpost?callback=?]
+  [4;35;1mSQL (0.3ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#show (for 10.0.0.19 at 2010-10-09 14:26:56) [GET]
+  Parameters: {"id"=>"1", "callback"=>"?"}
+  [4;35;1mSQL (0.3ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mWpPost Columns (2.4ms)[0m   [0mSHOW FIELDS FROM `wp_posts`[0m
+  [4;36;1mWpPost Load (0.8ms)[0m   [0;1mSELECT post_title,post_date,post_excerpt,post_content,pinged,guid,post_author,"mock" as post_tags,"mock" as post_categories FROM `wp_posts` WHERE (post_status = "publish" and post_type = "post") AND (`wp_posts`.`ID` = '1') LIMIT 1[0m
+Rendering cp/show
+Completed in 39ms (View: 3, DB: 1) | 200 OK [http://10.0.0.53/post/1?callback=?]
+  [4;35;1mSQL (0.4ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (1.5ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#show (for 10.0.0.19 at 2010-10-09 14:27:45) [GET]
+  Parameters: {"id"=>"1", "callback"=>"?"}
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mWpPost Columns (0.9ms)[0m   [0mSHOW FIELDS FROM `wp_posts`[0m
+  [4;36;1mWpPost Load (0.3ms)[0m   [0;1mSELECT post_title,post_date,post_excerpt,post_content,pinged,guid,post_author,"mock" as post_tags,"mock" as post_categories FROM `wp_posts` WHERE (post_status = "publish" and post_type = "post") AND (`wp_posts`.`ID` = '1') LIMIT 1[0m
+Rendering cp/show
+Completed in 18ms (View: 1, DB: 2) | 200 OK [http://10.0.0.53/post/1?callback=?]
+  [4;35;1mSQL (0.0ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#lastpost (for 10.0.0.19 at 2010-10-09 14:27:45) [GET]
+  Parameters: {"callback"=>"?"}
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mWpPost Load (0.3ms)[0m   [0mSELECT post_title,post_date,post_excerpt,post_content,pinged,guid,post_author,"tags,di,mock" as post_tags,"categorie,di,mock" as post_categories FROM `wp_posts` WHERE (post_status = "publish" and post_type = "post") ORDER BY post_date DESC LIMIT 1[0m
+  [4;36;1mWpPost Columns (0.9ms)[0m   [0;1mSHOW FIELDS FROM `wp_posts`[0m
+Rendering cp/lastpost
+Completed in 18ms (View: 1, DB: 0) | 200 OK [http://10.0.0.53/lastpost?callback=?]
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#show (for 10.0.0.19 at 2010-10-09 14:27:47) [GET]
+  Parameters: {"id"=>"1", "callback"=>"?"}
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mWpPost Columns (0.9ms)[0m   [0mSHOW FIELDS FROM `wp_posts`[0m
+  [4;36;1mWpPost Load (0.0ms)[0m   [0;1mSELECT post_title,post_date,post_excerpt,post_content,pinged,guid,post_author,"mock" as post_tags,"mock" as post_categories FROM `wp_posts` WHERE (post_status = "publish" and post_type = "post") AND (`wp_posts`.`ID` = '1') LIMIT 1[0m
+Rendering cp/show
+Completed in 18ms (View: 2, DB: 0) | 200 OK [http://10.0.0.53/post/1?callback=?]
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#lastpost (for 10.0.0.19 at 2010-10-09 14:27:47) [GET]
+  Parameters: {"callback"=>"?"}
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mWpPost Load (0.1ms)[0m   [0mSELECT post_title,post_date,post_excerpt,post_content,pinged,guid,post_author,"tags,di,mock" as post_tags,"categorie,di,mock" as post_categories FROM `wp_posts` WHERE (post_status = "publish" and post_type = "post") ORDER BY post_date DESC LIMIT 1[0m
+  [4;36;1mWpPost Columns (1.0ms)[0m   [0;1mSHOW FIELDS FROM `wp_posts`[0m
+Rendering cp/lastpost
+Completed in 19ms (View: 1, DB: 0) | 200 OK [http://10.0.0.53/lastpost?callback=?]
+  [4;35;1mSQL (0.0ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (1.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#lastpost (for 10.0.0.19 at 2010-10-09 14:27:51) [GET]
+  Parameters: {"callback"=>"?"}
+  [4;35;1mSQL (0.3ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mWpPost Load (0.2ms)[0m   [0mSELECT post_title,post_date,post_excerpt,post_content,pinged,guid,post_author,"tags,di,mock" as post_tags,"categorie,di,mock" as post_categories FROM `wp_posts` WHERE (post_status = "publish" and post_type = "post") ORDER BY post_date DESC LIMIT 1[0m
+  [4;36;1mWpPost Columns (3.3ms)[0m   [0;1mSHOW FIELDS FROM `wp_posts`[0m
+Rendering cp/lastpost
+Completed in 59ms (View: 3, DB: 1) | 200 OK [http://10.0.0.53/lastpost?callback=?]
+  [4;35;1mSQL (0.4ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#show (for 10.0.0.19 at 2010-10-09 14:27:52) [GET]
+  Parameters: {"id"=>"1", "callback"=>"?"}
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mWpPost Columns (1.0ms)[0m   [0mSHOW FIELDS FROM `wp_posts`[0m
+  [4;36;1mWpPost Load (0.0ms)[0m   [0;1mSELECT post_title,post_date,post_excerpt,post_content,pinged,guid,post_author,"mock" as post_tags,"mock" as post_categories FROM `wp_posts` WHERE (post_status = "publish" and post_type = "post") AND (`wp_posts`.`ID` = '1') LIMIT 1[0m
+Rendering cp/show
+Completed in 18ms (View: 2, DB: 1) | 200 OK [http://10.0.0.53/post/1?callback=?]
+  [4;35;1mSQL (0.7ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#lastpost (for 10.0.0.19 at 2010-10-09 14:28:21) [GET]
+  Parameters: {"callback"=>"?"}
+  [4;35;1mSQL (0.3ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mWpPost Load (0.3ms)[0m   [0mSELECT post_title,post_date,post_excerpt,post_content,pinged,guid,post_author,"tags,di,mock" as post_tags,"categorie,di,mock" as post_categories FROM `wp_posts` WHERE (post_status = "publish" and post_type = "post") ORDER BY post_date DESC LIMIT 1[0m
+  [4;36;1mWpPost Columns (3.8ms)[0m   [0;1mSHOW FIELDS FROM `wp_posts`[0m
+Rendering cp/lastpost
+Completed in 58ms (View: 3, DB: 2) | 200 OK [http://10.0.0.53/lastpost?callback=?]
+  [4;35;1mSQL (0.6ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#show (for 10.0.0.19 at 2010-10-09 14:28:21) [GET]
+  Parameters: {"id"=>"1", "callback"=>"?"}
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mWpPost Columns (0.8ms)[0m   [0mSHOW FIELDS FROM `wp_posts`[0m
+  [4;36;1mWpPost Load (0.6ms)[0m   [0;1mSELECT post_title,post_date,post_excerpt,post_content,pinged,guid,post_author,"mock" as post_tags,"mock" as post_categories FROM `wp_posts` WHERE (post_status = "publish" and post_type = "post") AND (`wp_posts`.`ID` = '1') LIMIT 1[0m
+Rendering cp/show
+Completed in 34ms (View: 4, DB: 1) | 200 OK [http://10.0.0.53/post/1?callback=?]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#index (for 10.0.0.52 at 2010-10-09 15:52:49) [GET]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Load (1.3ms)[0m   [0;1mSELECT * FROM `wp_posts` WHERE (post_status = "publish" and post_type = "post") ORDER BY post_date DESC LIMIT 10[0m
+Rendering cp/index
+  [4;35;1mWpPost Columns (2.9ms)[0m   [0mSHOW FIELDS FROM `wp_posts`[0m
+Completed in 83ms (View: 47, DB: 0) | 200 OK [http://www.wpelements.com/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing CpController#index (for 10.0.0.52 at 2010-10-09 15:54:08) [GET]
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Load (0.5ms)[0m   [0;1mSELECT * FROM `wp_posts` WHERE (post_status = "publish" and post_type = "post") ORDER BY post_date DESC LIMIT 10[0m
+Rendering cp/index
+  [4;35;1mWpPost Columns (4.6ms)[0m   [0mSHOW FIELDS FROM `wp_posts`[0m
+Completed in 70ms (View: 40, DB: 0) | 200 OK [http://www.wpelements.com/]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 10.0.0.52 at 2010-10-09 15:55:20) [GET]
+
+NameError (uninitialized constant CpController):
+  
+
+Rendered rescues/_trace (106.4ms)
+Rendered rescues/_request_and_response (4.5ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.7ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 10.0.0.52 at 2010-10-09 15:55:39) [GET]
+
+NameError (uninitialized constant CpController):
+  
+
+Rendered rescues/_trace (29.6ms)
+Rendered rescues/_request_and_response (2.6ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 10.0.0.52 at 2010-10-09 15:55:40) [GET]
+
+NameError (uninitialized constant CpController):
+  
+
+Rendered rescues/_trace (107.2ms)
+Rendered rescues/_request_and_response (1.3ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 10.0.0.52 at 2010-10-09 15:55:41) [GET]
+
+NameError (uninitialized constant CpController):
+  
+
+Rendered rescues/_trace (29.7ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing WpController#index (for 10.0.0.52 at 2010-10-09 15:56:15) [GET]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mWpPost Load (0.4ms)[0m   [0;1mSELECT * FROM `wp_posts` WHERE (post_status = "publish" and post_type = "post") ORDER BY post_date DESC LIMIT 10[0m
+
+ActionView::MissingTemplate (Missing template wp/index.erb in view path app/views):
+  
+
+Rendering rescues/layout (internal_server_error)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing WpController#index (for 10.0.0.52 at 2010-10-09 15:56:37) [GET]
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mWpPost Load (0.1ms)[0m   [0mSELECT * FROM `wp_posts` WHERE (post_status = "publish" and post_type = "post") ORDER BY post_date DESC LIMIT 10[0m
+Rendering wp/index
+  [4;36;1mWpPost Columns (1.3ms)[0m   [0;1mSHOW FIELDS FROM `wp_posts`[0m
+Completed in 72ms (View: 14, DB: 0) | 200 OK [http://www.wpelements.com/]

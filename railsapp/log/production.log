@@ -1,0 +1,307 @@
+
+
+Processing CpController#index (for 10.0.0.52 at 2010-10-09 11:29:58) [GET]
+Rendering cp/index
+Completed in 15ms (View: 12, DB: 0) | 200 OK [http://10.0.0.53/]
+
+
+Processing CpController#index (for 10.0.0.19 at 2010-10-09 11:32:25) [GET]
+Rendering cp/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://10.0.0.53/]
+
+
+Processing CpController#index (for 10.0.0.19 at 2010-10-09 11:33:17) [GET]
+Rendering cp/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://10.0.0.53/]
+
+
+Processing CpController#index (for 10.0.0.52 at 2010-10-09 09:52:26) [GET]
+Rendering cp/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://www.wpelements.com/]
+
+
+Processing CpController#index (for 10.0.0.52 at 2010-10-09 10:01:19) [GET]
+Rendering cp/index
+Completed in 11ms (View: 8, DB: 0) | 200 OK [http://blog.wpelements.com/]
+
+
+Processing CpController#index (for 10.0.0.52 at 2010-10-09 10:04:45) [GET]
+Rendering cp/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://www.wpelements.com/]
+
+
+Processing CpController#index (for 10.0.0.52 at 2010-10-09 10:12:04) [GET]
+Rendering cp/index
+Completed in 13ms (View: 10, DB: 0) | 200 OK [http://www.wpelements.com/]
+
+
+Processing CpController#index (for 10.0.0.52 at 2010-10-09 10:20:09) [GET]
+Rendering cp/index
+Completed in 11ms (View: 8, DB: 0) | 200 OK [http://blog.wpelements.com/]
+
+
+Processing CpController#index (for 10.0.0.52 at 2010-10-09 10:23:08) [GET]
+Rendering cp/index
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://blog.wpelements.com/]
+
+
+Processing CpController#index (for 10.0.0.52 at 2010-10-09 10:24:47) [GET]
+Rendering cp/index
+Completed in 13ms (View: 8, DB: 0) | 200 OK [http://blog.wpelements.com/]
+
+
+Processing CpController#index (for 10.0.0.52 at 2010-10-09 10:25:39) [GET]
+Rendering cp/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://blog.wpelements.com/]
+
+
+Processing CpController#index (for 10.0.0.52 at 2010-10-09 10:25:43) [GET]
+Rendering cp/index
+Completed in 215ms (View: 8, DB: 0) | 200 OK [http://blog.wpelements.com/]
+
+
+Processing CpController#index (for 10.0.0.52 at 2010-10-09 10:26:16) [GET]
+Rendering cp/index
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://blog.wpelements.com/]
+
+
+Processing CpController#index (for 10.0.0.52 at 2010-10-09 10:26:20) [GET]
+Rendering cp/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://blog.wpelements.com/]
+
+
+Processing CpController#index (for 10.0.0.52 at 2010-10-09 10:26:25) [GET]
+Rendering cp/index
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://blog.wpelements.com/]
+
+
+Processing CpController#index (for 10.0.0.52 at 2010-10-09 10:30:54) [GET]
+Rendering cp/index
+Completed in 12ms (View: 8, DB: 0) | 200 OK [http://www.wpelements.com/]
+
+
+Processing CpController#index (for 10.0.0.52 at 2010-10-09 10:31:06) [GET]
+Rendering cp/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://blog.wpelements.com/]
+
+
+Processing CpController#index (for 10.0.0.52 at 2010-10-09 10:32:37) [GET]
+Rendering cp/index
+Completed in 11ms (View: 8, DB: 0) | 200 OK [http://www.wpelements.com/]
+
+
+Processing CpController#index (for 10.0.0.52 at 2010-10-09 10:38:59) [GET]
+Rendering cp/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://www.wpelements.com/]
+
+
+Processing CpController#index (for 10.0.0.52 at 2010-10-09 10:39:02) [GET]
+Rendering cp/index
+Completed in 368ms (View: 367, DB: 0) | 200 OK [http://www.wpelements.com/]
+
+
+Processing CpController#index (for 10.0.0.52 at 2010-10-09 10:39:05) [GET]
+Rendering cp/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://www.wpelements.com/]
+
+
+Processing CpController#index (for 10.0.0.52 at 2010-10-09 13:46:59) [GET]
+Rendering cp/index
+Completed in 67ms (View: 43, DB: 1) | 200 OK [http://www.wpelements.com/]
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:47:59) [GET]
+  Parameters: {"id"=>"1"}
+Rendering cp/show
+Completed in 16ms (View: 1, DB: 0) | 200 OK [http://www.wpelements.com/post/1]
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:48:04) [GET]
+  Parameters: {"id"=>"10"}
+Rendering cp/show
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://www.wpelements.com/post/10]
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:48:30) [GET]
+  Parameters: {"id"=>"10"}
+Rendering cp/show
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://www.wpelements.com/post/10]
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:48:31) [GET]
+  Parameters: {"id"=>"10"}
+Rendering cp/show
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://www.wpelements.com/post/10]
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:48:32) [GET]
+  Parameters: {"id"=>"10"}
+Rendering cp/show
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://www.wpelements.com/post/10]
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:48:44) [GET]
+  Parameters: {"id"=>"10"}
+Rendering cp/show
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://www.wpelements.com/post/10]
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:48:45) [GET]
+  Parameters: {"id"=>"10"}
+Rendering cp/show
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://www.wpelements.com/post/10]
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:48:45) [GET]
+  Parameters: {"id"=>"10"}
+Rendering cp/show
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://www.wpelements.com/post/10]
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:48:46) [GET]
+  Parameters: {"id"=>"10"}
+Rendering cp/show
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://www.wpelements.com/post/10]
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:49:07) [GET]
+  Parameters: {"id"=>"10"}
+Rendering cp/show
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://www.wpelements.com/post/10]
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:49:08) [GET]
+  Parameters: {"id"=>"10"}
+Rendering cp/show
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://www.wpelements.com/post/10]
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:49:37) [GET]
+  Parameters: {"id"=>"10"}
+Rendering cp/show
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://www.wpelements.com/post/10]
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:49:38) [GET]
+  Parameters: {"id"=>"10"}
+Rendering cp/show
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://www.wpelements.com/post/10]
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:49:38) [GET]
+  Parameters: {"id"=>"10"}
+Rendering cp/show
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://www.wpelements.com/post/10]
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:49:39) [GET]
+  Parameters: {"id"=>"10"}
+Rendering cp/show
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://www.wpelements.com/post/10]
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:49:39) [GET]
+  Parameters: {"id"=>"10"}
+Rendering cp/show
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://www.wpelements.com/post/10]
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:50:05) [GET]
+  Parameters: {"id"=>"10"}
+Rendering cp/show
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://www.wpelements.com/post/10]
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:50:06) [GET]
+  Parameters: {"id"=>"10"}
+Rendering cp/show
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://www.wpelements.com/post/10]
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:50:48) [GET]
+  Parameters: {"id"=>"10"}
+Rendering cp/show
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://www.wpelements.com/post/10]
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:50:48) [GET]
+  Parameters: {"id"=>"10"}
+Rendering cp/show
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://www.wpelements.com/post/10]
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:50:56) [GET]
+  Parameters: {"id"=>"1"}
+Rendering cp/show
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://www.wpelements.com/post/1]
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:51:37) [GET]
+  Parameters: {"id"=>"1"}
+Rendering cp/show
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://www.wpelements.com/post/1]
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:51:43) [GET]
+Rendering cp/show
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://www.wpelements.com/post/]
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:52:01) [GET]
+Rendering cp/show
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://www.wpelements.com/post/]
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:52:06) [GET]
+  Parameters: {"id"=>"1"}
+Rendering cp/show
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://www.wpelements.com/post/1]
+
+
+Processing CpController#lastpost (for 10.0.0.52 at 2010-10-09 13:52:57) [GET]
+Rendering cp/lastpost
+Completed in 47ms (View: 45, DB: 0) | 200 OK [http://www.wpelements.com/lastpost]
+
+
+Processing CpController#lastpost (for 10.0.0.52 at 2010-10-09 13:53:48) [GET]
+Rendering cp/lastpost
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://www.wpelements.com/lastpost]
+
+
+Processing CpController#index (for 10.0.0.52 at 2010-10-09 13:54:07) [GET]
+Rendering cp/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://www.wpelements.com/]
+
+
+Processing CpController#index (for 10.0.0.52 at 2010-10-09 13:54:11) [GET]
+Rendering cp/index
+Completed in 5ms (View: 0, DB: 0) | 200 OK [http://www.wpelements.com/]
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:54:45) [GET]
+  Parameters: {"id"=>"1"}
+Rendering cp/show
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://www.wpelements.com/post/1]
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:54:50) [GET]
+  Parameters: {"id"=>"10"}
+Rendering cp/show
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://www.wpelements.com/post/10]
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:55:02) [GET]
+  Parameters: {"id"=>"10"}
+Rendering cp/show
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://www.wpelements.com/post/10]
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:55:03) [GET]
+  Parameters: {"id"=>"10"}
+Rendering cp/show
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://www.wpelements.com/post/10]
+
+
+Processing CpController#show (for 10.0.0.52 at 2010-10-09 13:55:07) [GET]
+Rendering cp/show
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://www.wpelements.com/post]
